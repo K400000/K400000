@@ -1,6 +1,6 @@
 ### Hi there, I'm Billy! 👋
 
-**Computer Science Student & Tech Community Leader** 🇹🇭
+**Computer Science Student**
 
 I'm a passionate developer transitioning into **Frontend Development**. Currently serving as the **President of CS28** and a core committee member of the **Cyber Geek Club** at Kasetsart University, Sriracha Campus.
 
