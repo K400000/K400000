@@ -9,7 +9,7 @@ I'm a passionate developer transitioning into **Frontend Development**. Currentl
 ### 🚀 What I'm up to
 - 🌱 **Training:** Sharpening my Frontend skills with the **Cyber Geek Development** software house group.
 - 💼 **Club Role:** Working under **Cyber Geek Club** (KU SRC).
-- ⚡ **Leadership (2025):**
+- ⚡ **Responsibilities :**
     - **Head of Computer Science** CS28.
     - **Activities & Facilities** at Cyber Geek Club.
 
