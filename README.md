@@ -1,30 +1,32 @@
 ### Hi there, I'm Billy! 👋
 
-**Computer Science Student**
+**Computer Science Student (CS28) @ Kasetsart University, Sriracha Campus**
 
-I'm a passionate developer transitioning into **Frontend Development**. Currently serving as the **President of CS28** and a core committee member of the **Cyber Geek Club** at Kasetsart University, Sriracha Campus.
+I am a developer with a driving passion to become a specialist in **Frontend Development** and **Data Science**.
+
+Currently, I balance my time between technical training at a software house, leading the CS student body, and managing tech community events.
 
 ---
 
 ### 🚀 What I'm up to
-- 🌱 **Training:** Sharpening my Frontend skills with the **Cyber Geek Development** software house group.
-- 💼 **Club Role:** Working under **Cyber Geek Club** (KU SRC).
-- ⚡ **Responsibilities :**
-    - **Head of Computer Science** CS28.
-    - **Activities & Facilities** at Cyber Geek Club.
+
+* 🌱 **Frontend Training:** Actively sharpening my skills with the **Cyber Geek Development** software house group.
+* 👨‍💻 **Leadership:** Serving as the **President of Computer Science (CS28)**.
+* ⚙️ **Club Activities:** Managing **Activities & Facilities** for the **Cyber Geek Club** (2025).
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages**
 
-![Languages](https://skillicons.dev/icons?i=python,java,js,ts,mysql)
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,mysql&theme=light" alt="Languages" />
 
 **Frontend & Web**
-
-![Frontend](https://skillicons.dev/icons?i=svelte,html,css)
+<br>
+<img src="https://skillicons.dev/icons?i=svelte,html,css&theme=light" alt="Frontend" />
 
 **Tools & Hardware**
-
-![Tools](https://skillicons.dev/icons?i=git,vscode,postman,arduino)
+<br>
+<img src="https://skillicons.dev/icons?i=git,vscode,postman,arduino&theme=light" alt="Tools" />
