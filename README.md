@@ -29,4 +29,4 @@ Currently, I balance my time between technical training at a software house, lea
 
 **Tools & Hardware**
 <br>
-<img src="https://skillicons.dev/icons?i=git,vscode,postman,arduino&theme=light" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,vscode,postman&theme=light" alt="Tools" />
