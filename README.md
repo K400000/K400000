@@ -25,7 +25,7 @@ Currently, I balance my time between technical training at a software house, lea
 
 **Frontend & Web**
 <br>
-<img src="https://skillicons.dev/icons?i=svelte,html,css&theme=light" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=svelte,vue,html,css&theme=light" alt="Frontend" />
 
 **Tools & Hardware**
 <br>
