@@ -2,8 +2,6 @@
 
 **Computer Science Student (CS28) @ Kasetsart University, Sriracha Campus**
 
-I am a developer with a driving passion to become a specialist in **Software Engineer**.
-
 ---
 
 ### 🚀 What I'm up to
