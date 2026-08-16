@@ -1,4 +1,4 @@
-### Hi there, I'm Billy! 👋
+### Hi there, I'm Kao! 👋
 
 **Computer Science Student (CS28) @ Kasetsart University, Sriracha Campus**
 
@@ -16,16 +16,18 @@
 
 ---
 
-### 🛠️ Tech Stack
-
-**Languages & Database**
+**Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,postgres&theme=light" alt="Languages & DB" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,java&theme=light" alt="Languages" />
 
-**Frontend & Web**
+**Frontend & Web Development**
 <br>
 <img src="https://skillicons.dev/icons?i=svelte,vue,html,css,bootstrap&theme=light" alt="Frontend" />
 
-**Tools & Platforms**
+**Backend & Database**
+<br>
+<img src="https://skillicons.dev/icons?i=express,nodejs,postgres&theme=light" alt="Backend & DB" />
+
+**Tools & Environment**
 <br>
 <img src="https://skillicons.dev/icons?i=git,vscode,postman&theme=light" alt="Tools" />
